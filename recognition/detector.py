@@ -1,5 +1,3 @@
-# recognition/detector.py
-
 import face_recognition
 
 def detect_faces(frame):
